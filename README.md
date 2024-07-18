@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there!<br><br>I am a computer science student at UC Santa Barbara,  eager to apply my skills and knowledge to solve real-world problems. I have completed multiple courses and projects using Java, React, and Python to develop innovative solutions and projects. I am looking for an intern position in computer science or any related field to contribute to the company's vision and goals and learn from the best in the industry.
+Hi there!<br><br>I am a computer science student at UC Santa Barbara,  eager to apply my skills and knowledge to solve real-world problems. I have completed multiple courses and projects using Java, React, and Python to develop innovative solutions and projects. I am looking for an intern position in computer science or any related field to contribute to the company's goals while learning from the best in the industry.
 
 
 ## 🌐 Socials:
